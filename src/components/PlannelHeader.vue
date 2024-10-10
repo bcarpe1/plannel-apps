@@ -35,9 +35,6 @@
               </select>
               <input class="control" type="number" v-model="year" min="1990" max="9999" style="text-align: center" />
             </span>
-            <span style="float:right; color: rgb(16, 49, 110);margin: 10px; font-size:14pt; font-family:Arial, sans-serif;">
-              Questions/Suggestions: <a href="emailto:bcarpe@outlook.com"  style="color: navy;margin: 0; font-size:14pt; font-family:Arial, sans-serif;">bcarpe@outlook.com</a>
-            </span>
           </div>
         </td>
       </tr>
