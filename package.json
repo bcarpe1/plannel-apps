@@ -21,7 +21,8 @@
     "mitt": "^3.0.1",
     "serve-static": "^1.15.0",
     "vue": "^3.2.13",
-    "vue-cli-service": "^5.0.10"
+    "vue-cli-service": "^5.0.10",
+    "express-rate-limit": "^7.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
